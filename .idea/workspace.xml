@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="main.jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e22b36f-5626-43f7-b2ca-297b80c6f61c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="307" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WqVd1NmGPJ19M8pWdKUTye8x84" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dice_game" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dice_game" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.main.jar">
+    <configuration name="GameManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dice_game.GameManager" />
+      <module name="JavaHomework" />
+      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dice_game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dice_game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dice_game" />
+      <option name="MAIN_CLASS_NAME" value="dice_game.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.gameTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dice_game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dice_game" />
+      <option name="MAIN_CLASS_NAME" value="dice_game.GameTest" />
+      <option name="METHOD_NAME" value="gameTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaHomework.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaHomework_jar/JavaHomework.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/main_jar/main.jar" />
+      <option name="PROGRAM_PARAMETERS" value="5 3 5" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameManager" />
+      <item itemvalue="JAR Application.JavaHomework.jar" />
+      <item itemvalue="JAR Application.main.jar" />
+      <item itemvalue="JUnit.GameTest" />
+      <item itemvalue="JUnit.GameTest.gameTest1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.main.jar" />
+        <item itemvalue="Application.GameManager" />
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.GameTest.gameTest1" />
+        <item itemvalue="JAR Application.JavaHomework.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e22b36f-5626-43f7-b2ca-297b80c6f61c" name="Default Changelist" comment="" />
+      <created>1579877195360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579877195360</updated>
+      <workItem from="1579877198060" duration="889000" />
+      <workItem from="1579892378415" duration="39000" />
+      <workItem from="1579970610504" duration="15739000" />
+      <workItem from="1580003829196" duration="12000" />
+      <workItem from="1580043016796" duration="2000" />
+      <workItem from="1580048233229" duration="38000" />
+      <workItem from="1580119062121" duration="1232000" />
+      <workItem from="1580123780178" duration="390000" />
+      <workItem from="1580132210063" duration="78000" />
+      <workItem from="1580198222459" duration="1502000" />
+      <workItem from="1580200550122" duration="16000" />
+      <workItem from="1580585830614" duration="3862000" />
+      <workItem from="1580676792193" duration="627000" />
+      <workItem from="1580720515849" duration="64000" />
+      <workItem from="1580726761850" duration="84000" />
+      <workItem from="1580806767540" duration="477000" />
+      <workItem from="1580821617839" duration="216000" />
+      <workItem from="1581151732584" duration="4126000" />
+      <workItem from="1581187424545" duration="19000" />
+      <workItem from="1581187964748" duration="6894000" />
+      <workItem from="1581245118136" duration="1122000" />
+      <workItem from="1581246713836" duration="898000" />
+      <workItem from="1581258463263" duration="1000" />
+      <workItem from="1581330783946" duration="253000" />
+      <workItem from="1581331049157" duration="14000" />
+      <workItem from="1581333083103" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581247207541">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="594" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581247207541" />
+    <state x="720" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579985538882">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="720" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579985538882" />
+    <state x="746" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580586651434">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1580586651434" />
+    <state x="750" y="27" width="476" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579973636724">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="750" y="27" width="476" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579973636724" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581331060973">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="290" key="FileChooserDialogImpl/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1580821832918" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581331060973" />
+    <state width="1807" height="224" key="GridCell.Tab.0.bottom" timestamp="1581333700834">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="224" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581333700834" />
+    <state width="1807" height="224" key="GridCell.Tab.0.center" timestamp="1581333700834">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="224" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581333700834" />
+    <state width="1807" height="224" key="GridCell.Tab.0.left" timestamp="1581333700833">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="224" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581333700833" />
+    <state width="1807" height="224" key="GridCell.Tab.0.right" timestamp="1581333700834">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="224" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581333700834" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581155859230">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581155859230" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581155859229">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581155859229" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581155859229">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581155859229" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581155859230">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581155859230" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1581333108263">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581333108263" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581331050345">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="362" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1580821824918" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581331050345" />
+    <state x="665" y="448" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580120067874">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="665" y="448" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1580120067874" />
+    <state x="767" y="257" width="442" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580586633357">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="767" y="257" width="442" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580586633357" />
+    <state x="302" y="153" width="1372" height="798" key="new project wizard" timestamp="1581187439840">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1581187439840" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1579984949431">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579984949431" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaHomework$GameTest.ic" NAME="GameTest Coverage Results" MODIFIED="1581155186879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dice_game.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaHomework$GameTest_gameTest1.ic" NAME="GameTest.gameTest1 Coverage Results" MODIFIED="1580587806463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dice_game.*</FILTER>
+    </SUITE>
+  </component>
+</project>
